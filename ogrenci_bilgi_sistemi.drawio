@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T12:40:36.242Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="eOLYFWzpsHUr_VSEQVcV" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T12:42:13.583Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kOI_MxgzfY4-1LTW8jAa" version="24.5.3" type="github">
   <diagram name="Page-1" id="5RWQs3kXL790tDM_O4KD">
     <mxGraphModel dx="819" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="q8dBn_YlhrmXgaq97wFI-228" value="&lt;u&gt;Sicil No&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="2380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-233" value="Vatandaş" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-233" value="Personel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="2600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-236" value="&lt;u&gt;TC kimlik no&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-236" value="&lt;u&gt;Sicil no&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8dBn_YlhrmXgaq97wFI-237" value="Adı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,10 +49,10 @@
         <mxCell id="q8dBn_YlhrmXgaq97wFI-303" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2130" y="2500" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-304" value="Doğum tarihi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-304" value="Departmanı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-305" value="Eş TC kimlik no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-305" value="Yönetici sicil no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8dBn_YlhrmXgaq97wFI-306" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
