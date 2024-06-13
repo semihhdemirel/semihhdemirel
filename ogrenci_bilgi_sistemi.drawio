@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T12:42:13.583Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kOI_MxgzfY4-1LTW8jAa" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T12:46:05.897Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uYzSYI_8x4-3EMNhdLeM" version="24.5.3" type="github">
   <diagram name="Page-1" id="5RWQs3kXL790tDM_O4KD">
     <mxGraphModel dx="819" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-220" value="Personel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-220" value="Ders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="2440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-228" value="&lt;u&gt;Sicil No&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-228" value="&lt;u&gt;Ders kodu&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="2380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-233" value="Personel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-233" value="Ders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="2600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-236" value="&lt;u&gt;Sicil no&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-236" value="&lt;u&gt;Ders kodu&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8dBn_YlhrmXgaq97wFI-237" value="Adı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,13 +22,13 @@
         <mxCell id="q8dBn_YlhrmXgaq97wFI-243" value="Adı" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="2420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-246" value="Soyadı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-246" value="Açıklama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-264" value="Soyadı" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-264" value="Açıklama" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="2460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-299" value="Yönetir" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-299" value="Ön şartıdır" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="2420" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q8dBn_YlhrmXgaq97wFI-300" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="q8dBn_YlhrmXgaq97wFI-299">
@@ -43,44 +43,32 @@
             <mxPoint x="2130" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-302" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-302" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2130" y="2400" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-303" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-303" value="M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2130" y="2500" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-304" value="Departmanı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-304" value="Kredi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-305" value="Yönetici sicil no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="2640" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-306" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2280" y="2720" as="sourcePoint" />
-            <mxPoint x="2280" y="2680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-307" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1960" y="2720" as="sourcePoint" />
-            <mxPoint x="2280" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-308" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q8dBn_YlhrmXgaq97wFI-236">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1960" y="2720" as="sourcePoint" />
-            <mxPoint x="2010" y="2670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-309" value="Departmanı" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-309" value="Kredi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="2500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-310" value="Yönetici" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-310" value="Ders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2090" y="2410" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q8dBn_YlhrmXgaq97wFI-312" value="Yönetilen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-312" value="Ön şart dersler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2090" y="2490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-313" value="Ön şartlar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="2720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-314" value="&lt;u&gt;Ders kodu&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="2760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8dBn_YlhrmXgaq97wFI-315" value="Önşart ders kodu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2760" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
