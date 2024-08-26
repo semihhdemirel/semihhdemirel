@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="1YKQCsukXdO5vAvRAArU">
-    <mxGraphModel>
+    <mxGraphModel dx="835" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3PALkF7F6_XZENhIXWSo-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="410" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-3" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="140" y="368.5" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="470" as="sourcePoint" />
+            <mxPoint x="260" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.25" y="469.41" as="sourcePoint" />
+            <mxPoint x="449.25" y="469.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Global response normalization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Convolution layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259.25" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="469.71000000000004" as="sourcePoint" />
+            <mxPoint x="640" y="469.71000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3PALkF7F6_XZENhIXWSo-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gaussion error linear unit activation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
