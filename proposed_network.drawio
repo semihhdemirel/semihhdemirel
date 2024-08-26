@@ -478,6 +478,9 @@
         <mxCell id="7HWSwMcLxFaWkFFoOp-o-166" value="Output layer(6 classes)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1500" y="702.38" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7HWSwMcLxFaWkFFoOp-o-167" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="537" y="617" width="126" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
