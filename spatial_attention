@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="XLZF95rKGD-9wODxruJg">
-    <mxGraphModel dx="1434" dy="222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6K-u6zPiZkQCHDV4_BjA-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;size=15;" parent="1" vertex="1">
-          <mxGeometry x="220" y="599" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="6K-u6zPiZkQCHDV4_BjA-5" value="Channel refined feature map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200.5" y="558" width="109" height="30" as="geometry" />
         </mxCell>
@@ -60,6 +57,9 @@
         </mxCell>
         <mxCell id="6K-u6zPiZkQCHDV4_BjA-20" value="Spatial map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="675" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ywzswJVesFHU2x1j3tr-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="603" width="50" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
