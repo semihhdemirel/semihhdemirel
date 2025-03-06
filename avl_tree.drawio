@@ -13,6 +13,9 @@
         <mxCell id="LGagJnv1_jEsa-ETBMmw-3" value="57" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LGagJnv1_jEsa-ETBMmw-5" value="60" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
